@@ -1,4 +1,3 @@
-Voici une version propre et directement compatible GitHub. Tu peux copier-coller l’intégralité dans ton README.md.
 
 AI Civilization Simulator
 
