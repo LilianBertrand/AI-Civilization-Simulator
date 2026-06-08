@@ -1,12 +1,11 @@
-AI Civilization Simulator
+##AI Civilization Simulator##
 
 An advanced AI-powered civilization simulation engine combining economics, geopolitics, religion, technology, warfare, financial markets, and historical storytelling.
 
 The simulator generates unique worlds where civilizations compete, trade, innovate, wage wars, form alliances, develop religions, experience crises, and shape their own history over centuries.
 
-⸻
 
-Features
+##Features##
 
 Procedural World Generation
 
@@ -64,9 +63,7 @@ Analytics Lab
 * Economic comparisons
 * Strategic intelligence dashboards
 
-⸻
-
-Technology Stack
+##Technology Stack##
 
 * Python
 * Streamlit
@@ -74,7 +71,7 @@ Technology Stack
 * NumPy
 * Plotly
 
-Project Structure
+##Project Structure##
 
 app.py
 world/
@@ -88,7 +85,7 @@ politics/
 simulation/
 visuals/
 
-Simulation Highlights
+##Simulation Highlights##
 
 The simulator can generate:
 
@@ -102,9 +99,8 @@ The simulator can generate:
 
 Each simulation produces a unique historical timeline and strategic outcome.
 
-⸻
 
-Future Development
+##Future Development##
 
 * Improved strategic maps
 * Scenario editor
@@ -113,9 +109,8 @@ Future Development
 * Multiplayer world observation mode
 * Enhanced visualization engine
 
-⸻
 
-Author
+##Author##
 
 Lilian Bertrand
 
