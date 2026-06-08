@@ -129,3 +129,9 @@ SKEMA Business School
 
 Passionate about quantitative finance, data analytics, simulation systems, and artificial intelligence.
 
+⸻
+
+Live Demo 
+
+https://ai-civilization-simulator-bqdt3iktpx7q3adrzqszog.streamlit.app/
+
